@@ -142,5 +142,5 @@ I have **strong problem-solving skills** and a passion for building **scalable a
 For any queries or collaboration opportunities, feel free to reach out:
 - **📧 Email:** akshayenuguru3@gmail.com
 - **📞 Phone:** +91 9959905305
-- **🌐 GitHub:** [github.com/your-username](https://github.com/Akshay7995)
-- **🔗 LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/akshayenuguru/)
+- **🌐 GitHub:** [https://github.com/Akshay7995](github.com/your-username)
+- **🔗 LinkedIn:** [https://www.linkedin.com/in/akshayenuguru/](linkedin.com/in/your-profile)
