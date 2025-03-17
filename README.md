@@ -28,7 +28,7 @@ Ensure you have the following installed on your system:
 
 ### **2️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/your-portfolio-repo.git
+git clone https://github.com/Akshay7995/GrowthLink/tree/main.git
 cd your-portfolio-repo
 ```
 
